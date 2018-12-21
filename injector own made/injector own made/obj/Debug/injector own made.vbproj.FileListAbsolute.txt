@@ -1,0 +1,12 @@
+C:\Users\Adek\source\repos\injector own made\injector own made\bin\Debug\injector own made.exe.config
+C:\Users\Adek\source\repos\injector own made\injector own made\bin\Debug\injector own made.exe
+C:\Users\Adek\source\repos\injector own made\injector own made\bin\Debug\injector own made.pdb
+C:\Users\Adek\source\repos\injector own made\injector own made\bin\Debug\injector own made.xml
+C:\Users\Adek\source\repos\injector own made\injector own made\obj\Debug\injector own made.vbprojAssemblyReference.cache
+C:\Users\Adek\source\repos\injector own made\injector own made\obj\Debug\injector_own_made.Form1.resources
+C:\Users\Adek\source\repos\injector own made\injector own made\obj\Debug\injector_own_made.Resources.resources
+C:\Users\Adek\source\repos\injector own made\injector own made\obj\Debug\injector own made.vbproj.GenerateResource.cache
+C:\Users\Adek\source\repos\injector own made\injector own made\obj\Debug\injector own made.vbproj.CoreCompileInputs.cache
+C:\Users\Adek\source\repos\injector own made\injector own made\obj\Debug\injector own made.exe
+C:\Users\Adek\source\repos\injector own made\injector own made\obj\Debug\injector own made.xml
+C:\Users\Adek\source\repos\injector own made\injector own made\obj\Debug\injector own made.pdb
